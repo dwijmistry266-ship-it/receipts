@@ -1,0 +1,1 @@
+{"type": "command", "command": "python -m pytest tests/ -q", "exit_code": 1, "output": ".....................................................................FFF\n81 passed, 3 failed in 2.01s"}

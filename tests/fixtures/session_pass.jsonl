@@ -1,0 +1,2 @@
+{"type": "command", "command": "python -m pytest tests/ -q", "exit_code": 0, "output": "........................................................................\n84 passed in 1.23s"}
+{"type": "command", "command": "git diff --stat", "exit_code": 0, "output": " src/auth.py | 12 +++++++++++-"}

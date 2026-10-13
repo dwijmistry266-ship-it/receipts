@@ -1,0 +1,1 @@
+{"type": "command", "command": "pytest tests/", "output": "collected 44 items"}

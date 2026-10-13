@@ -1,0 +1,2 @@
+{"type": "exec_command_begin", "payload": {"command": ["pytest", "tests/"]}}
+{"type": "event_msg", "payload": {"command": ["pytest", "tests/"], "exit_code": 0, "output": "10 passed in 0.4s"}}
